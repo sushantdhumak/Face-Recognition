@@ -17,12 +17,12 @@ FaceNet learns a neural network that encodes a face image into a vector of 128 n
 
 By the end of this project, we'll be able to:
 
-Differentiate between face recognition and face verification <br>
-Implement one-shot learning to solve a face recognition problem <br>
-Apply the triplet loss function to learn a network's parameters in the context of face recognition <br>
-Explain how to pose face recognition as a binary classification problem <br>
-Map face images into 128-dimensional encodings using a pretrained model <br>
-Perform face verification and face recognition with these encodings <br>
+1. Differentiate between face recognition and face verification <br>
+2. Implement one-shot learning to solve a face recognition problem <br>
+3. Apply the triplet loss function to learn a network's parameters in the context of face recognition <br>
+4. Explain how to pose face recognition as a binary classification problem <br>
+5. Map face images into 128-dimensional encodings using a pretrained model <br>
+6. Perform face verification and face recognition with these encodings <br>
 
 ### Acknowledgements
 
